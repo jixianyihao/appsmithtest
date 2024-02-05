@@ -15,7 +15,7 @@
     "mobileRightColumn": 51,
     "animateLoading": true,
     "parentColumnSpace": 17.9375,
-    "leftColumn": 27,
+    "leftColumn": 49,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"},
@@ -114,7 +114,7 @@
     "key": "thdl4wj9qg",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
-    "rightColumn": 51,
+    "rightColumn": 64,
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "xebu7i94zh",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
