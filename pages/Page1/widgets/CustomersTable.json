@@ -26,7 +26,7 @@
         {"key": "primaryColumns.created_at.computedValue"},
         {"key": "primaryColumns.updated_at.computedValue"}
     ],
-    "leftColumn": 37,
+    "leftColumn": 42,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -429,7 +429,7 @@
     "key": "hlupn299rl",
     "canFreezeColumn": false,
     "isDeprecated": false,
-    "rightColumn": 49,
+    "rightColumn": 54,
     "textSize": "0.875rem",
     "widgetId": "aqpqbznlzl",
     "enableServerSideFiltering": false,

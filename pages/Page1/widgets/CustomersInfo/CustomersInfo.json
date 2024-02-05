@@ -15,7 +15,7 @@
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
     "animateLoading": true,
-    "leftColumn": 49,
+    "leftColumn": 54,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
